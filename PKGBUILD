@@ -1,7 +1,7 @@
-pkgname=app
+pkgname=USBManager
 pkgver=1.0.0
 pkgrel=1
-pkgdesc="A c++ app to make mounting external drives easyer"
+pkgdesc="A c++ app to make mounting external drives easier"
 arch=('x86_64')
 license=('MIT')
 depends=('qt6-base')

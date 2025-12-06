@@ -1,0 +1,15 @@
+pkgbase = app
+	pkgdesc = A c++ app to make mounting external drives easyer
+	pkgver = 1.0.0
+	pkgrel = 1
+	arch = x86_64
+	license = MIT
+	makedepends = qt6-base
+	makedepends = qt6-tools
+	makedepends = make
+	makedepends = gcc
+	depends = qt6-base
+	source = app-1.0.0.tar.gz
+	sha256sums = SKIP
+
+pkgname = app
